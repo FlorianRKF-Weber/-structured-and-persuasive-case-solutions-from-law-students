@@ -12,6 +12,6 @@ Citation
 
 If you use the data, cite the following publication: 
 
-Weber, F., Thiemo, W., Neshaei, S. P., & Söllner, M. (2023). Modeling structured persuasive writing of case solutions in German law courses to support students in legal education. In *Findings of the Association for Computational Linguistics: ACL 2023*.
+Weber, F., Wambsganss, T., Neshaei, S. P., & Söllner, M. (2023). Modeling structured persuasive writing of case solutions in German law courses to support students in legal education. In *Findings of the Association for Computational Linguistics: ACL 2023*.
 
 
