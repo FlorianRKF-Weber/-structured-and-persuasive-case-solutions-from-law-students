@@ -12,6 +12,6 @@ Citation
 
 If you use the data, cite the following publication: 
 
-Florian Weber,Thiemo Wambsganss, Seyed Parsa Neshaei and Matthias Soellner. 2023. "Modeling structured persuasive writing of case solutions in German law courses to support students in legal education". In: Findings of the Association for Computational Linguistics: ACL 2023. Toronto, Canada. 
+Florian Weber,Thiemo Wambsganss, Seyed Parsa Neshaei and Matthias Soellner. 2023. "Structured Persuasive Writing Support in Legal Education: A Model and Tool for German Legal Case Solutions". In: Findings of the Association for Computational Linguistics: ACL 2023. Toronto, Canada. 
 
 
